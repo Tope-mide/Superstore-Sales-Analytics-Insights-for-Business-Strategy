@@ -1,7 +1,25 @@
-# Superstore Sales Analytics
-A data analytics case study using Python and Power BI/Tableau on a fictional retail superstore dataset. The aim is to uncover actionable insights to help the business optimize sales, profitability, and customer targeting.
+# Superstore Sales Analytics 📊
 
-## Tools Used
+This is a data analytics project using Python and Power BI/Tableau to analyze a fictional Superstore's sales data. The goal is to uncover actionable business insights around top-performing products, customer segments, regions, and more.
+
+---
+
+## 📌 Objectives
+- Clean and prepare real-world sales data
+- Perform exploratory data analysis (EDA)
+- Visualize key patterns and trends
+- Deliver business insights to guide sales strategy
+- Create a professional dashboard for stakeholders
+
+---
+
+## 🛠️ Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
 - Power BI / Tableau
-- Jupyter Notebooks
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📁 Folder Structure
+
